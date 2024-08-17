@@ -106,9 +106,9 @@ export default function Home () {
     width="100vw"
     height="100vh"
     display={'flex'}
-    justifyContent={'left'}
+    justifyContent={'center'}
     flexDirection={'column'}
-    alignItems={'left'}
+    alignItems={'center'}
     gap={2}
   >
     <Box>
